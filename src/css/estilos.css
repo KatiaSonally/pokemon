@@ -55,6 +55,7 @@ main .cartao-pokemon {
     align-items: center;
     gap: 15px;
     border-radius: 15px;
+    border: 1px solid #333333;
     transition: 0.2s ease-in-out;
 }
 
@@ -70,7 +71,7 @@ main .cartao-pokemon:hover {
 main .cartao-pokemon .informacoes {
     display: flex;
     justify-content: space-between;
-    border: 1px solid #333333;
+    border: 2px solid #333333;
     border-radius: 10px;
 }
 
@@ -93,6 +94,7 @@ main .cartao-pokemon .tipos {
 main .cartao-pokemon .tipo {
     padding: 8px;
     border-radius: 10px;
+    border: 1px solid #333333;
 }
 
 .grama {

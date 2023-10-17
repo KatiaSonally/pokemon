@@ -63,7 +63,7 @@ main .cartao-pokemon:hover {
     transform: scale(1.05);
 }
 
-main .modo-escuro .cartao-pokemon {
+.modo-escuro .cartao-pokemon {
     background-color: #a8a8a8;
 }
 
